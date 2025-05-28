@@ -23,7 +23,7 @@ A manually fabricated and coded line-following vehicle developed as a team durin
 ## 📸 Media
 
 ### 📷 AGV Final Build  
-![AGV Photo](AVG_PHOTO.jpg)
+![AGV Photo](AGV_PHOTO.jpg)
 
 ### 🖥️ Keypad + Display | 🔧 Rear Electronics
 <p float="left">
